@@ -28,7 +28,7 @@ settings:
   langs: fr-fr,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,it-it
 sidebar:
   entries:
-  - title: Documentation sur l'automatisation du contrôle Astra
+  - title: Documents relatifs à Astra Control Automation 23.04
     url: "/index.html"
   - section: rn
   - section: intro

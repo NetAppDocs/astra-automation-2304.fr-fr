@@ -1191,7 +1191,6 @@
   <block id="af7c4c7bd30238dcb53e639cf7a50996" category="cell">Chaîne JSON contenant l'identifiant UUIDv4 de l'ID utilisateur qui a créé la ressource. Si la ressource a été créée par un composant système interne et qu'aucun UUID n'est associé à l'entité de création, l'UUID *null* est utilisé.</block>
   <block id="6cb8b958a36383ed1b7bacc626d0a5dd" category="paragraph-title">État de la ressource</block>
   <block id="b7aa38141b9dd3f7e78cd09e7f60ce0c" category="paragraph">Ressources sélectionnées a<block ref="9ed39e2ea931586b6a985a6942ef573e" prefix=" " category="inline-code"></block> valeur utilisée pour orchestrer les transitions de cycle de vie et contrôler l'accès.</block>
-  <block id="1045f2798351223896fdab281a8307eb" category="sidebar">Documentation sur l'automatisation du contrôle Astra</block>
   <block id="93168a8084b3e838d2932c4734bd234e" category="sidebar">Versions antérieures</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Commencez</block>
   <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">Présentation</block>
@@ -1231,4 +1230,5 @@
   <block id="b99e07f4bea810f88b69ecfe1784ab28" category="sidebar">Liste des clouds</block>
   <block id="b65e59022e022b723c1c1fbb73cd0092" category="sidebar">Rubriques de liste</block>
   <block id="157ecd713825d83c3595df6b4c0c11af" category="sidebar">Accédez au document de référence</block>
+  <block id="8f5acd94867d6ae4b479db02c3a9b834" category="sidebar">Documents relatifs à Astra Control Automation 23.04</block>
 </blocks>
